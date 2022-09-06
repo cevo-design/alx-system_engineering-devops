@@ -9,4 +9,5 @@
 8-true_knowledge - prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE
 9-divide_and_rule -  prints the result of POWER divided by DIVIDE
 11-binary_to_decimal - converts a number from base 2 to base 10.
+12-combinations - prints all possible combinations of two letters, except oo
 
